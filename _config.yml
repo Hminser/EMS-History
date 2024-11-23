@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: History of Ambulances in EMS
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The history and development of ambulances from their inception to modern era.
+tagline: The history and development of ambulances from their inception to the modern era.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "The history and development of ambulances from their inception to the modern era in images of ambulance design"
+description: "The history and development of ambulances from their inception to the modern era"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Hunter Minser
 
