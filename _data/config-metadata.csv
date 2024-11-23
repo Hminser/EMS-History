@@ -13,3 +13,5 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+loc, LOC Heading,
+mm, Make and Model,,
