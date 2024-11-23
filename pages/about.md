@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="1" %}
 
 ## History of Emergency Medical Systems (EMS)  
 Ambulances first were used mainly in warfare to transport wounded troops off the battlefield to field hospitals to be treated. The first instances of the modern idea of an ambulance began with the Spanish during the reconquista in 1487. In the United States, ambulances were utilized during the American Civil War extensively and were a common sight on battles during the war.  
